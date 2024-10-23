@@ -1,0 +1,1 @@
+#define PORTD0 0
