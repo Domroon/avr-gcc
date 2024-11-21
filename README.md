@@ -30,6 +30,10 @@
 
 [avrdude](https://github.com/avrdudes/avrdude)
 
+## ws2812 Links
+
+[WS2812 Library](https://github.com/cpldcpu/light_ws2812)
+
 ## Compiler Commands
 
     avr-gcc -c -mmcu=atmega328p -I. -gdwarf-2 -DF_CPU=16000000UL -Os main.c -o ./obj/main.o
