@@ -18,6 +18,8 @@
 
 [Makefile Tutorial](https://makefiletutorial.com/)
 
+[Makefile Documentation](https://www.gnu.org/software/make/manual/)
+
 [Arduino UNO Pinout](https://docs.arduino.cc/resources/pinouts/A000066-full-pinout.pdf)
 
 [Old Arduino UNO Pinout](https://www.electroschematics.com/wp-content/uploads/2013/01/Arduino-Uno-R3-Pinouts.png?resize=550%2C423)
