@@ -37,7 +37,8 @@
 
 ## I2C Links
 [Description](https://www.mikrocontroller.net/articles/I%C2%B2C)
-[Library](http://www.peterfleury.epizy.com/avr-software.html)
+[Master Library](http://www.peterfleury.epizy.com/avr-software.html)
+[Slave Library](https://rn-wissen.de/wiki/index.php/TWI_Slave_mit_avr-gcc)
 
 ## Compiler Commands
 
