@@ -33,7 +33,11 @@
 ## ws2812 Links
 
 [WS2812 Library](https://github.com/cpldcpu/light_ws2812)
-[Erklärung](https://www.mikrocontroller.net/articles/WS2812_Ansteuerung)
+[Description](https://www.mikrocontroller.net/articles/WS2812_Ansteuerung)
+
+## I2C Links
+[Description](https://www.mikrocontroller.net/articles/I%C2%B2C)
+[Library](http://www.peterfleury.epizy.com/avr-software.html)
 
 ## Compiler Commands
 
