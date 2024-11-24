@@ -33,6 +33,7 @@
 ## ws2812 Links
 
 [WS2812 Library](https://github.com/cpldcpu/light_ws2812)
+[Erklärung](https://www.mikrocontroller.net/articles/WS2812_Ansteuerung)
 
 ## Compiler Commands
 

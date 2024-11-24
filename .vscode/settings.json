@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "light_ws2812.h": "c",
+        "cstdint": "c",
+        "inttypes.h": "c"
     }
 }
