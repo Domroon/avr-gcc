@@ -8,7 +8,7 @@
 #include <avr/interrupt.h>
 #include "light_ws2812.h"
 
-#define MAXPIX 8
+#define MAXPIX 16
 #define COLORLENGTH (MAXPIX/2)
 #define FADE (256/COLORLENGTH)
 
@@ -78,7 +78,7 @@ int main(void)
         if(led[0].b>(colors[j].b+FADE))
             led[0].b-=FADE;
 
-		 _delay_ms(10);
-		 ws2812_sendarray((uint8_t *)led,MAXPIX*3);
+		_delay_ms(100);
+		ws2812_setleds(led,MAXPIX);
     }
 }
