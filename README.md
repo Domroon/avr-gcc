@@ -33,12 +33,20 @@
 ## ws2812 Links
 
 [WS2812 Library](https://github.com/cpldcpu/light_ws2812)
+
 [Description](https://www.mikrocontroller.net/articles/WS2812_Ansteuerung)
 
 ## I2C Links
+
 [Description](https://www.mikrocontroller.net/articles/I%C2%B2C)
+
 [Master Library](http://www.peterfleury.epizy.com/avr-software.html)
+
 [Slave Library](https://rn-wissen.de/wiki/index.php/TWI_Slave_mit_avr-gcc)
+
+## UART Links
+
+[Library](http://www.peterfleury.epizy.com/doxygen/avr-gcc-libraries/group__pfleury__uart.html?i=1)
 
 ## Compiler Commands
 
